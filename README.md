@@ -1,4 +1,5 @@
 ## Luis Felipe S. Gobetti
+### Técnico em Desenvolvimento de Sistemas e atual estudante de Análise e Desenvolvimento de Sistemas pela Fatec Taquaritinga
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-siqueira-gobetti/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisGoubetti)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:luis-sollu@hotmail.com)
